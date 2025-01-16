@@ -1,2 +1,2 @@
-# .github.io
+stevenmcda.github.io
 Homework 1
